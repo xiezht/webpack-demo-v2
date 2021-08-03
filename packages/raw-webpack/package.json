@@ -1,5 +1,5 @@
 {
-  "name": "raw-webpack",
+  "name": "@xiezht/raw-webpack-demo",
   "version": "1.0.0",
   "description": "使用webpack从0开始打包",
   "main": "index.js",
