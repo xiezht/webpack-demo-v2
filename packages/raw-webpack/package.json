@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/xiezht/webpack-demo-v2/issues"
   },
-  "homepage": "https://github.com/xiezht/webpack-demo-v2#readme"
+  "homepage": "https://github.com/xiezht/webpack-demo-v2#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
