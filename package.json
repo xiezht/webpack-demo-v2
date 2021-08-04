@@ -1,14 +1,22 @@
 {
-  "name": "@xiezht/webpack-demo-v2",
+  "name": "webpack-demo-v2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiezht/webpack-demo-v2.git"
+  },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "lerna": "^4.0.0"
-  }
+  "bugs": {
+    "url": "https://github.com/xiezht/webpack-demo-v2/issues"
+  },
+  "homepage": "https://github.com/xiezht/webpack-demo-v2#readme",
+  "workspaces": [
+    "packages/*"
+  ]
 }

@@ -1,3 +1,6 @@
 # webpack-demo-v2
 
-* try use `lerna` to manage monorepo
+* node v14.x
+* npm v7.x
+* monorepo: use npm workspace
+
