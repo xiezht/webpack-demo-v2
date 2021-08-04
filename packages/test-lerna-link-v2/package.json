@@ -1,11 +1,11 @@
 {
-  "name": "test-lerna-link",
-  "version": "1.0.1",
+  "name": "test-lerna-link-v2",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "xiezht <xiewangchuang@outlook.com>",
   "homepage": "https://github.com/xiezht/webpack-demo-v2#readme",
   "license": "ISC",
-  "main": "lib/test-lerna-link.js",
+  "main": "lib/test-lerna-link-v2.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -25,6 +25,5 @@
   },
   "bugs": {
     "url": "https://github.com/xiezht/webpack-demo-v2/issues"
-  },
-  "gitHead": "576c22262954c0d9252e7aaf8830cc0b836421d1"
+  }
 }
