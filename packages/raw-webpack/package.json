@@ -1,6 +1,6 @@
 {
   "name": "@xiezht/raw-webpack-demo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "使用webpack从0开始打包",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21",
-    "test-lerna-link": "^1.0.1"
+    "test-lerna-link": "^1.0.2"
   },
   "gitHead": "576c22262954c0d9252e7aaf8830cc0b836421d1"
 }
