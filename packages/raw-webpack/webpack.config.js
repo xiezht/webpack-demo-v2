@@ -7,7 +7,12 @@ module.exports = {
     rules: [
       {
         test: /\.js$/,
-        use: 'loader-demo-1'
+        use: {
+          loader: 'loader-demo-1',
+          options: {
+            name: 'this is loader optiosn-name'
+          }
+        }
       }
     ]
   }
