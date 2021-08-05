@@ -1,12 +1,10 @@
 {
-  "name": "raw-webpack",
+  "name": "loader-demo-1",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "pack": "webpack",
-    "start": "node ./scripts/start.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -19,9 +17,6 @@
   },
   "homepage": "https://github.com/xiezht/webpack-demo-v2#readme",
   "dependencies": {
-    "loader-demo-1": "file:packages/loader-demo-1",
-    "lodash": "^4.17.21",
-    "webpack": "^5.48.0",
-    "webpack-cli": "^4.7.2"
+    "colors": "^1.4.0"
   }
 }
